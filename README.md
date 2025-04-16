@@ -69,10 +69,11 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Uploading Screenshot 2025-04-16 142803.png…]()
+![Screenshot 2025-04-16 142803](https://github.com/user-attachments/assets/9c2812af-7e43-45b5-82e7-a633517bb818)
+
 
 
 **RESULTS**
 
-Thus the   JK flipflop using verilog and validating their functionality using their functional tables is verified.
+Thus the  JK flipflop using verilog and validating their functionality using their functional tables is verified.
 
